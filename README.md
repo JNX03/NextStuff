@@ -9,4 +9,4 @@
 
 - [NextNitro](placehole) - discord plugin that around you to have feature like having nitro
 
-
+- [SwtBot2.0](placehole) - Change log for Swtbot 2.0
